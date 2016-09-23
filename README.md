@@ -14,11 +14,11 @@
 
 # Oleksandr Hryniuk
 
-**Project Manager at [AccuraSoftHire](https://accurasofthire.com)** — Product Delivery · Web & ML Programs · Client & Engineering Coordination
+**Project Manager at [AccuraSoftHire](https://accurasofthire.us.com)** — Product Delivery · Web & ML Programs · Client & Engineering Coordination
 
 I lead projects from scope and timeline through release — aligning stakeholders, engineering, and quality so web and ML initiatives ship on time with visible progress.
 
-📧 oleksandr.hryniuk@accurasofthire.com | 🏢 [AccuraSoftHire](https://accurasofthire.com) | 💼 GitHub [@oleksandr3201](https://github.com/oleksandr3201)
+📧 oleksandr.hryniuk@accurasofthire.us.com | 🏢 [AccuraSoftHire](https://accurasofthire.us.com) | 💼 GitHub [@oleksandr3201](https://github.com/oleksandr3201)
 
 ---
 
@@ -44,6 +44,6 @@ I lead projects from scope and timeline through release — aligning stakeholder
 
 **AccuraSoftHire** builds reliable digital products and connects strong engineering talent with meaningful work. As **Project Manager**, Oleksandr drives delivery for client and product engagements across **web** and **ML** initiatives.
 
-📬 **Reach out:** oleksandr.hryniuk@accurasofthire.com · **AccuraSoftHire:** [accurasofthire.com](https://accurasofthire.com)
+📬 **Reach out:** oleksandr.hryniuk@accurasofthire.us.com · **AccuraSoftHire:** [accurasofthire.us.com](https://accurasofthire.us.com)
 
 ---
